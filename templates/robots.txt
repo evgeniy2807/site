@@ -1,0 +1,5 @@
+User-agent:*
+Disallow:/textolite
+
+
+host: https://master-gruzoff.ru
